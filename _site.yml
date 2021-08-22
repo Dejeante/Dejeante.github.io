@@ -4,5 +4,5 @@ navbar:
   left:
     - text: "MOVEMENT ECOLOGY"
       href: page1.html
-    - text: "SPORT ANALYZES"
+    - text: "SPORT ANALYSIS"
       href: page2.html
