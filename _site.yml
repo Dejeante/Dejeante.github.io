@@ -1,7 +1,8 @@
 name: "DATA SCIENCE"
 navbar:
-  title: "DATA SCIENCE"
   left:
+    - text: "ABOUT ME"
+      href: index.html
     - text: "MOVEMENT ECOLOGY"
       href: page1.html
     - text: "SPORT ANALYSIS"
