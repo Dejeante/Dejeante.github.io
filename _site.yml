@@ -6,7 +6,3 @@ navbar:
       href: page1.html
     - text: "SPORT ANALYSIS"
       href: page2.html
-output:
-  html_document:
-    theme: cosmo
-    highlight: textmate
