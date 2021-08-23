@@ -1,6 +1,0 @@
-
-# PROJECTS
-
-## Football data
-
-![Kernel distribution](./img/football_heat.png "Football heatmap"){ width=50% }
