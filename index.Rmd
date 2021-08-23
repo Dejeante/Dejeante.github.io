@@ -8,7 +8,7 @@ navbar:
     - text: "SPORT ANALYSIS"
       href: page2.html
 ---
-test 
+test  2
 
 # Summary
 
