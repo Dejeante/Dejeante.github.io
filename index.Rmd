@@ -1,20 +1,14 @@
 ---
 title: "DATA SCIENCE - FROM ECOLOGY TO MOVEMENT ANALYZES"
-output:
-  html_document:
-    theme: cosmo
-    highlight: textmate
-    navbar-col: "#EAEAEA"
-    navbar-text-col: "#404040"
-    navbar-border-col: "#DDDDDD"
-    page-col: "#FFFFFF"
-    text-col: "#404040"
-    link-col: "#008AFF"
-    hover-col: "#0085A1"
-    footer-col: "#EAEAEA"
-    footer-text-col: "#777777"
-    footer-link-col: "#404040"
+navbar:
+  title: "DATA SCIENCE"
+  left:
+    - text: "MOVEMENT ECOLOGY"
+      href: page1.html
+    - text: "SPORT ANALYSIS"
+      href: page2.html
 ---
+test 
 
 # Summary
 
