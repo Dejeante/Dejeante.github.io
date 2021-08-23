@@ -1,4 +1,5 @@
 name: "DATA SCIENCE"
+future: true
 navbar:
   title: "DATA SCIENCE"
   left:
