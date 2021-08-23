@@ -1,5 +1,4 @@
 name: "DATA SCIENCE"
-future: true
 navbar:
   title: "DATA SCIENCE"
   left:
@@ -7,5 +6,3 @@ navbar:
       href: page1.html
     - text: "SPORT ANALYZES"
       href: page2.html
-
-
