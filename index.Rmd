@@ -1,4 +1,4 @@
-#---
+---
 title: "DATA SCIENCE - FROM ECOLOGY TO MOVEMENT ANALYZES"
 navbar:
   title: "DATA SCIENCE"
@@ -8,8 +8,6 @@ navbar:
     - text: "SPORT ANALYSIS"
       href: page2.html
 ---
-
-test  2
 
 # Summary
 
