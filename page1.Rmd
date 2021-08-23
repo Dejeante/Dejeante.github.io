@@ -1,0 +1,31 @@
+---
+title: "MOVEMENT ECOLOGY"
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    navbar-col: "#EAEAEA"
+    navbar-text-col: "#404040"
+    navbar-border-col: "#DDDDDD"
+    page-col: "#FFFFFF"
+    text-col: "#404040"
+    link-col: "#008AFF"
+    hover-col: "#0085A1"
+    footer-col: "#EAEAEA"
+    footer-text-col: "#777777"
+    footer-link-col: "#404040"
+---
+
+# EXPERIENCES
+
+## Social dynamics - 3 years project
+
+## Wildelife management - 9 months project
+
+![Raccoon with GPS collar](./img/raccoon.jpg "Raccoon with GPS collar"){ width=50% }
+
+## Predator-prey interactions - 5 months project
+More [here](https://mablab.org/people/romain-dejeante/)
+
+
+![Wildebeest](https://upload.wikimedia.org/wikipedia/commons/f/fb/Blue_Wildebeest%2C_Ngorongoro.jpg){ width=50% }

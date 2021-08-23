@@ -1,0 +1,10 @@
+name: "DATA SCIENCE"
+navbar:
+  title: "DATA SCIENCE"
+  left:
+    - text: "MOVEMENT ECOLOGY"
+      href: page1.html
+    - text: "SPORT ANALYZES"
+      href: page2.html
+
+
