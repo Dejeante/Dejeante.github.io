@@ -1,1 +1,3 @@
 remote_theme: cosmos/vuepress-theme-cosmos
+
+theme: jekyll-theme-cayman
