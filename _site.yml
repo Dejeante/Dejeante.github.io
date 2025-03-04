@@ -1,9 +1,0 @@
-name: "DATA SCIENCE"
-navbar:
-  left:
-    - text: "HOME"
-      href: index.html
-    - text: "MOVEMENT ECOLOGY"
-      href: page1.html
-    - text: "SPORT ANALYSIS"
-      href: page2.html
